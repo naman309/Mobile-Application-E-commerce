@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/home_frag"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/navy"
+    tools:context=".fragments.HomeFragment">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+        <ScrollView
+            android:id="@+id/scroll_view"
+            android:layout_height="match_parent"
+            android:layout_width="match_parent">
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+                <RelativeLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content">
+                    <LinearLayout
+                        android:id="@+id/initial_home_view"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:orientation="vertical">
+                        <LinearLayout
+                            android:id="@+id/search_layout_btn"
+                            android:layout_width="match_parent"
+                            android:layout_height="@dimen/touch_target_min"
+                            android:layout_gravity="center"
+                            android:layout_marginTop="@dimen/home_search_margin_top"
+                            android:layout_marginBottom="@dimen/home_search_margin_bottom"
+                            android:gravity="center"
+                            android:orientation="horizontal">
+
+                            <ImageView
+                                android:layout_width="@dimen/icon_size_small"
+                                android:layout_height="@dimen/icon_size_small"
+                                android:layout_gravity="center"
+                                android:src="@drawable/nav_icon_search_brown" />
+
+                            <TextView
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_gravity="center"
+                                android:layout_marginStart="@dimen/home_search_text_margin_start"
+                                android:gravity="center"
+                                android:text="@string/title_search"
+                                android:textAllCaps="true"
+                                android:textColor="@color/light_brown"
+                                android:textSize="@dimen/font_body1" />
+                        </LinearLayout>
+
+                        <ImageView
+                            android:id="@+id/home_logo"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginBottom="@dimen/home_title_margin_bottom"
+                            android:src="@drawable/home_logo" />
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:orientation="vertical">
+
+                            <TextView
+                                android:id="@+id/featured_text"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_gravity="left"
+                                android:layout_marginStart="@dimen/screen_margin_horizontal_small"
+                                android:text="@string/home_featured_prev"
+                                android:textSize="@dimen/font_body2" />
+
+                            <androidx.recyclerview.widget.RecyclerView
+                                android:id="@+id/featured_items_list"
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:layout_marginLeft="@dimen/recently_viewed_margin_start"
+                                android:layout_marginTop="@dimen/recently_viewed_margin_top" />
+                        </LinearLayout>
+
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:id="@+id/browse_btn"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:orientation="horizontal"
+                        android:layout_alignParentBottom="true"
+                        android:layout_centerHorizontal="true"
+                        android:paddingBottom="@dimen/home_browse_btn_padding_bottom">
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:textSize="@dimen/font_body2"
+                            android:textColor="@color/light_brown"
+                            android:text="@string/browse_btn"/>
+                        <ImageView
+                            android:layout_marginLeft="@dimen/home_browse_icon_margin_start"
+                            android:layout_width="@dimen/icon_size_small"
+                            android:layout_height="@dimen/icon_size_small"
+                            android:src="@drawable/browse_btn_arrow" />
+                    </LinearLayout>
+                </RelativeLayout>
+
+                <ListView
+                    android:id="@+id/category_list"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:divider="@null">
+                </ListView>
+            </LinearLayout>
+        </ScrollView>
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/outside_search_container"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/transparent"
+        android:orientation="vertical"
+        android:visibility="gone"/>
+    <include
+        android:id="@+id/search_view"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/home_search_margin_top"
+        android:layout_gravity="center_horizontal"
+        android:background="@color/navy"
+        layout="@layout/item_search_bar"
+        android:visibility="gone"/>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/recently_viewed_height"
+        android:layout_marginBottom="@dimen/recently_viewed_margin_bottom"
+        android:layout_marginEnd="@dimen/recently_viewed_margin_end"
+        android:layout_gravity="bottom"
+        android:gravity="right">
+        <ListView
+            android:id="@+id/indicator"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentBottom="true"
+            android:divider="@null" />
+    </RelativeLayout>
+
+</FrameLayout>

@@ -1,0 +1,408 @@
+com/example/nolo/fragments/CartFragment.java
+ com.example.nolo.fragments.CartFragment
+ com.example.nolo.fragments.CartFragment$ViewHolder
+com/example/nolo/interactors/user/AddCartItemUseCase.java
+ com.example.nolo.interactors.user.AddCartItemUseCase
+com/example/nolo/util/ListUtil.java
+ com.example.nolo.util.ListUtil
+com/example/nolo/adaptors/DetailsCustomisationAdaptor.java
+ com.example.nolo.adaptors.DetailsCustomisationAdaptor
+ com.example.nolo.adaptors.DetailsCustomisationAdaptor$1
+ com.example.nolo.adaptors.DetailsCustomisationAdaptor$ViewHolder
+com/example/nolo/activities/MapActivity.java
+ com.example.nolo.activities.MapActivity
+ com.example.nolo.activities.MapActivity$ViewHolder
+com/example/nolo/entities/item/purchasable/IPurchasable.java
+ com.example.nolo.entities.item.purchasable.IPurchasable
+com/example/nolo/databinding/ItemSearchSuggestionBinding.java
+ com.example.nolo.databinding.ItemSearchSuggestionBinding
+com/example/nolo/viewmodels/WishlistViewModel.java
+ com.example.nolo.viewmodels.WishlistViewModel
+com/example/nolo/activities/LogInActivity.java
+ com.example.nolo.activities.LogInActivity
+ com.example.nolo.activities.LogInActivity$ViewHolder
+com/example/nolo/databinding/ActivityResultBinding.java
+ com.example.nolo.databinding.ActivityResultBinding
+com/example/nolo/entities/item/specs/Specs.java
+ com.example.nolo.entities.item.specs.Specs
+com/example/nolo/entities/user/IUser.java
+ com.example.nolo.entities.user.IUser
+com/example/nolo/databinding/ItemDetailsColourBinding.java
+ com.example.nolo.databinding.ItemDetailsColourBinding
+com/example/nolo/repositories/RepositoryExpiredTime.java
+ com.example.nolo.repositories.RepositoryExpiredTime
+com/example/nolo/interactors/item/GetPhonesGroupedByOsUseCase.java
+ com.example.nolo.interactors.item.GetPhonesGroupedByOsUseCase
+com/example/nolo/repositories/user/IUsersRepository.java
+ com.example.nolo.repositories.user.IUsersRepository
+com/example/nolo/databinding/ActivityListBinding.java
+ com.example.nolo.databinding.ActivityListBinding
+com/example/nolo/interactors/item/GetLaptopsGroupedByBrandUseCase.java
+ com.example.nolo.interactors.item.GetLaptopsGroupedByBrandUseCase
+com/example/nolo/activities/ListActivity.java
+ com.example.nolo.activities.ListActivity
+ com.example.nolo.activities.ListActivity$1
+ com.example.nolo.activities.ListActivity$ViewHolder
+com/example/nolo/databinding/ItemCompactBinding.java
+ com.example.nolo.databinding.ItemCompactBinding
+com/example/nolo/activities/BaseActivity.java
+ com.example.nolo.activities.BaseActivity
+com/example/nolo/util/ResponsiveView.java
+ com.example.nolo.util.ResponsiveView
+com/example/nolo/databinding/ItemHomeIndicatorBinding.java
+ com.example.nolo.databinding.ItemHomeIndicatorBinding
+com/example/nolo/interactors/store/GetStoreByIdUseCase.java
+ com.example.nolo.interactors.store.GetStoreByIdUseCase
+com/example/nolo/databinding/ActivityForgotPasswordBinding.java
+ com.example.nolo.databinding.ActivityForgotPasswordBinding
+com/example/nolo/repositories/category/ICategoriesRepository.java
+ com.example.nolo.repositories.category.ICategoriesRepository
+com/example/nolo/viewmodels/ISignUpViewModel.java
+ com.example.nolo.viewmodels.ISignUpViewModel
+com/example/nolo/viewmodels/PurchasesViewModel.java
+ com.example.nolo.viewmodels.PurchasesViewModel
+com/example/nolo/interactors/user/LoadUsersRepositoryUseCase.java
+ com.example.nolo.interactors.user.LoadUsersRepositoryUseCase
+com/example/nolo/interactors/user/ClearCartItemUseCase.java
+ com.example.nolo.interactors.user.ClearCartItemUseCase
+com/example/nolo/enums/PhoneOs.java
+ com.example.nolo.enums.PhoneOs
+com/example/nolo/enums/SpecsOptionType.java
+ com.example.nolo.enums.SpecsOptionType
+com/example/nolo/databinding/ActivityLoginBinding.java
+ com.example.nolo.databinding.ActivityLoginBinding
+com/example/nolo/fragments/PurchasesFragment.java
+ com.example.nolo.fragments.PurchasesFragment
+ com.example.nolo.fragments.PurchasesFragment$ViewHolder
+com/example/nolo/adaptors/DetailsColorAdaptor.java
+ com.example.nolo.adaptors.DetailsColorAdaptor
+ com.example.nolo.adaptors.DetailsColorAdaptor$ViewHolder
+com/example/nolo/entities/category/Category.java
+ com.example.nolo.entities.category.Category
+com/example/nolo/dataprovider/DataProvider.java
+ com.example.nolo.dataprovider.DataProvider
+ com.example.nolo.dataprovider.DataProvider$1
+ com.example.nolo.dataprovider.DataProvider$2
+ com.example.nolo.dataprovider.DataProvider$3
+ com.example.nolo.dataprovider.DataProvider$4
+ com.example.nolo.dataprovider.DataProvider$4$1
+ com.example.nolo.dataprovider.DataProvider$5
+ com.example.nolo.dataprovider.DataProvider$6
+ com.example.nolo.dataprovider.DataProvider$7
+com/example/nolo/viewmodels/SignUpViewModel.java
+ com.example.nolo.viewmodels.SignUpViewModel
+com/example/nolo/databinding/CarouselImgBinding.java
+ com.example.nolo.databinding.CarouselImgBinding
+com/example/nolo/interactors/user/MoveCartItemsToPurchasedItemsUseCase.java
+ com.example.nolo.interactors.user.MoveCartItemsToPurchasedItemsUseCase
+com/example/nolo/fragments/ChangePasswordFragment.java
+ com.example.nolo.fragments.ChangePasswordFragment
+ com.example.nolo.fragments.ChangePasswordFragment$ViewHolder
+com/example/nolo/databinding/PopupConnectivityBinding.java
+ com.example.nolo.databinding.PopupConnectivityBinding
+com/example/nolo/databinding/ActivityDetailsBinding.java
+ com.example.nolo.databinding.ActivityDetailsBinding
+com/example/nolo/adaptors/MapColourOverlayAdaptor.java
+ com.example.nolo.adaptors.MapColourOverlayAdaptor
+ com.example.nolo.adaptors.MapColourOverlayAdaptor$ViewHolder
+com/example/nolo/entities/item/Item.java
+ com.example.nolo.entities.item.Item
+com/example/nolo/adaptors/HomeCategoryAdaptor.java
+ com.example.nolo.adaptors.HomeCategoryAdaptor
+ com.example.nolo.adaptors.HomeCategoryAdaptor$ViewHolder
+com/example/nolo/databinding/ItemListPhoneBinding.java
+ com.example.nolo.databinding.ItemListPhoneBinding
+com/example/nolo/interactors/user/GetCartItemsUseCase.java
+ com.example.nolo.interactors.user.GetCartItemsUseCase
+com/example/nolo/enums/PurchaseStatus.java
+ com.example.nolo.enums.PurchaseStatus
+com/example/nolo/repositories/category/CategoriesRepository.java
+ com.example.nolo.repositories.category.CategoriesRepository
+ com.example.nolo.repositories.category.CategoriesRepository$1
+com/example/nolo/entities/item/IItem.java
+ com.example.nolo.entities.item.IItem
+com/example/nolo/viewmodels/DetailsViewModel.java
+ com.example.nolo.viewmodels.DetailsViewModel
+com/example/nolo/databinding/ItemListLaptopBinding.java
+ com.example.nolo.databinding.ItemListLaptopBinding
+com/example/nolo/adaptors/CarouselPagerAdaptor.java
+ com.example.nolo.adaptors.CarouselPagerAdaptor
+com/example/nolo/viewmodels/IDetailsViewModel.java
+ com.example.nolo.viewmodels.IDetailsViewModel
+com/example/nolo/fragments/ProfileFragment.java
+ com.example.nolo.fragments.ProfileFragment
+ com.example.nolo.fragments.ProfileFragment$ViewHolder
+com/example/nolo/adaptors/SearchItemSuggestionAdaptor.java
+ com.example.nolo.adaptors.SearchItemSuggestionAdaptor
+ com.example.nolo.adaptors.SearchItemSuggestionAdaptor$1
+ com.example.nolo.adaptors.SearchItemSuggestionAdaptor$ViewHolder
+com/example/nolo/util/FragmentUtil.java
+ com.example.nolo.util.FragmentUtil
+com/example/nolo/interactors/user/ChangePasswordUseCase.java
+ com.example.nolo.interactors.user.ChangePasswordUseCase
+com/example/nolo/entities/store/IStore.java
+ com.example.nolo.entities.store.IStore
+com/example/nolo/databinding/ItemDetailsDescriptionBinding.java
+ com.example.nolo.databinding.ItemDetailsDescriptionBinding
+com/example/nolo/entities/store/IBranch.java
+ com.example.nolo.entities.store.IBranch
+com/example/nolo/entities/item/purchasable/Purchasable.java
+ com.example.nolo.entities.item.purchasable.Purchasable
+com/example/nolo/databinding/ActivitySignupBinding.java
+ com.example.nolo.databinding.ActivitySignupBinding
+com/example/nolo/activities/SignUpActivity.java
+ com.example.nolo.activities.SignUpActivity
+ com.example.nolo.activities.SignUpActivity$ViewHolder
+com/example/nolo/activities/DetailsActivity.java
+ com.example.nolo.activities.DetailsActivity
+ com.example.nolo.activities.DetailsActivity$1
+ com.example.nolo.activities.DetailsActivity$ViewHolder
+com/example/nolo/repositories/user/UsersRepository.java
+ com.example.nolo.repositories.user.UsersRepository
+ com.example.nolo.repositories.user.UsersRepository$1
+ com.example.nolo.repositories.user.UsersRepository$2
+ com.example.nolo.repositories.user.UsersRepository$3
+ com.example.nolo.repositories.user.UsersRepository$4
+ com.example.nolo.repositories.user.UsersRepository$5
+ com.example.nolo.repositories.user.UsersRepository$5$1
+com/example/nolo/databinding/FragmentProfileBinding.java
+ com.example.nolo.databinding.FragmentProfileBinding
+com/example/nolo/viewmodels/IHomeViewModel.java
+ com.example.nolo.viewmodels.IHomeViewModel
+com/example/nolo/databinding/ItemHomeCategoryBinding.java
+ com.example.nolo.databinding.ItemHomeCategoryBinding
+com/example/nolo/interactors/user/GetPurchasedItemsUseCase.java
+ com.example.nolo.interactors.user.GetPurchasedItemsUseCase
+com/example/nolo/viewmodels/CartViewModel.java
+ com.example.nolo.viewmodels.CartViewModel
+com/example/nolo/util/Keyboard.java
+ com.example.nolo.util.Keyboard
+com/example/nolo/fragments/WishlistFragment.java
+ com.example.nolo.fragments.WishlistFragment
+ com.example.nolo.fragments.WishlistFragment$ViewHolder
+com/example/nolo/adaptors/ItemsListVariantAdaptor.java
+ com.example.nolo.adaptors.ItemsListVariantAdaptor
+ com.example.nolo.adaptors.ItemsListVariantAdaptor$CartViewHolder
+ com.example.nolo.adaptors.ItemsListVariantAdaptor$PurchasesViewHolder
+ com.example.nolo.adaptors.ItemsListVariantAdaptor$ViewHolder
+ com.example.nolo.adaptors.ItemsListVariantAdaptor$WishlistViewHolder
+com/example/nolo/entities/item/storevariants/StoreVariant.java
+ com.example.nolo.entities.item.storevariants.StoreVariant
+com/example/nolo/databinding/FragmentChangePasswordBinding.java
+ com.example.nolo.databinding.FragmentChangePasswordBinding
+com/example/nolo/viewmodels/ListViewModel.java
+ com.example.nolo.viewmodels.ListViewModel
+ com.example.nolo.viewmodels.ListViewModel$1
+com/example/nolo/interactors/user/AddPurchasedItemsUseCase.java
+ com.example.nolo.interactors.user.AddPurchasedItemsUseCase
+com/example/nolo/viewmodels/AccountViewModel.java
+ com.example.nolo.viewmodels.AccountViewModel
+com/example/nolo/entities/category/ICategory.java
+ com.example.nolo.entities.category.ICategory
+com/example/nolo/entities/item/Accessory.java
+ com.example.nolo.entities.item.Accessory
+com/example/nolo/adaptors/ListByCategoryAdaptor.java
+ com.example.nolo.adaptors.ListByCategoryAdaptor
+ com.example.nolo.adaptors.ListByCategoryAdaptor$1
+ com.example.nolo.adaptors.ListByCategoryAdaptor$2
+ com.example.nolo.adaptors.ListByCategoryAdaptor$3
+ com.example.nolo.adaptors.ListByCategoryAdaptor$AccessoryViewHolder
+ com.example.nolo.adaptors.ListByCategoryAdaptor$LaptopsViewHolder
+ com.example.nolo.adaptors.ListByCategoryAdaptor$PhoneViewHolder
+com/example/nolo/activities/SplashActivity.java
+ com.example.nolo.activities.SplashActivity
+ com.example.nolo.activities.SplashActivity$ViewHolder
+com/example/nolo/viewmodels/ResultViewModel.java
+ com.example.nolo.viewmodels.ResultViewModel
+com/example/nolo/enums/CollectionPath.java
+ com.example.nolo.enums.CollectionPath
+com/example/nolo/databinding/ItemListVariantBinding.java
+ com.example.nolo.databinding.ItemListVariantBinding
+com/example/nolo/viewmodels/HomeViewModel.java
+ com.example.nolo.viewmodels.HomeViewModel
+com/example/nolo/repositories/item/IItemsRepository.java
+ com.example.nolo.repositories.item.IItemsRepository
+com/example/nolo/entities/item/colour/IColour.java
+ com.example.nolo.entities.item.colour.IColour
+com/example/nolo/entities/item/Phone.java
+ com.example.nolo.entities.item.Phone
+com/example/nolo/databinding/FragmentPurchasesBinding.java
+ com.example.nolo.databinding.FragmentPurchasesBinding
+com/example/nolo/interactors/item/GetSearchSuggestionsUseCase.java
+ com.example.nolo.interactors.item.GetSearchSuggestionsUseCase
+com/example/nolo/databinding/FragmentAccountBinding.java
+ com.example.nolo.databinding.FragmentAccountBinding
+com/example/nolo/interactors/category/LoadCategoriesRepositoryUseCase.java
+ com.example.nolo.interactors.category.LoadCategoriesRepositoryUseCase
+com/example/nolo/adaptors/HomeIndicatorAdaptor.java
+ com.example.nolo.adaptors.HomeIndicatorAdaptor
+ com.example.nolo.adaptors.HomeIndicatorAdaptor$ViewHolder
+com/example/nolo/fragments/AccountFragment.java
+ com.example.nolo.fragments.AccountFragment
+ com.example.nolo.fragments.AccountFragment$ViewHolder
+com/example/nolo/entities/store/Branch.java
+ com.example.nolo.entities.store.Branch
+com/example/nolo/interactors/store/LoadStoresRepositoryUseCase.java
+ com.example.nolo.interactors.store.LoadStoresRepositoryUseCase
+com/example/nolo/entities/item/Laptop.java
+ com.example.nolo.entities.item.Laptop
+com/example/nolo/entities/item/specs/specsoption/ISpecsOption.java
+ com.example.nolo.entities.item.specs.specsoption.ISpecsOption
+com/example/nolo/databinding/ActivityMainBinding.java
+ com.example.nolo.databinding.ActivityMainBinding
+com/example/nolo/viewmodels/ILogInViewModel.java
+ com.example.nolo.viewmodels.ILogInViewModel
+com/example/nolo/BuildConfig.java
+ com.example.nolo.BuildConfig
+com/example/nolo/interactors/item/GetCategoryItemsUseCase.java
+ com.example.nolo.interactors.item.GetCategoryItemsUseCase
+com/example/nolo/entities/item/storevariants/IStoreVariant.java
+ com.example.nolo.entities.item.storevariants.IStoreVariant
+com/example/nolo/interactors/item/LoadItemsRepositoryUseCase.java
+ com.example.nolo.interactors.item.LoadItemsRepositoryUseCase
+com/example/nolo/entities/item/specs/ISpecs.java
+ com.example.nolo.entities.item.specs.ISpecs
+com/example/nolo/fragments/HomeFragment.java
+ com.example.nolo.fragments.HomeFragment
+ com.example.nolo.fragments.HomeFragment$1
+ com.example.nolo.fragments.HomeFragment$2
+ com.example.nolo.fragments.HomeFragment$ViewHolder
+com/example/nolo/viewmodels/LogInViewModel.java
+ com.example.nolo.viewmodels.LogInViewModel
+com/example/nolo/interactors/item/GetAccessRecommendationsByItemIdUseCase.java
+ com.example.nolo.interactors.item.GetAccessRecommendationsByItemIdUseCase
+com/example/nolo/interactors/user/LogInUseCase.java
+ com.example.nolo.interactors.user.LogInUseCase
+com/example/nolo/viewmodels/ISearchViewModel.java
+ com.example.nolo.viewmodels.ISearchViewModel
+com/example/nolo/viewmodels/SearchViewModel.java
+ com.example.nolo.viewmodels.SearchViewModel
+com/example/nolo/interactors/user/LogOutUseCase.java
+ com.example.nolo.interactors.user.LogOutUseCase
+com/example/nolo/fragments/CarouselImageFragment.java
+ com.example.nolo.fragments.CarouselImageFragment
+com/example/nolo/adaptors/SearchItemResultAdaptor.java
+ com.example.nolo.adaptors.SearchItemResultAdaptor
+ com.example.nolo.adaptors.SearchItemResultAdaptor$1
+ com.example.nolo.adaptors.SearchItemResultAdaptor$ViewHolder
+com/example/nolo/viewmodels/ICartViewModel.java
+ com.example.nolo.viewmodels.ICartViewModel
+com/example/nolo/viewmodels/IListViewModel.java
+ com.example.nolo.viewmodels.IListViewModel
+com/example/nolo/viewmodels/ChangePasswordViewModel.java
+ com.example.nolo.viewmodels.ChangePasswordViewModel
+com/example/nolo/util/Animation.java
+ com.example.nolo.util.Animation
+com/example/nolo/enums/SpecsType.java
+ com.example.nolo.enums.SpecsType
+com/example/nolo/databinding/ActivityMapBinding.java
+ com.example.nolo.databinding.ActivityMapBinding
+com/example/nolo/util/ColourUtil.java
+ com.example.nolo.util.ColourUtil
+com/example/nolo/databinding/ItemDetailsCustomisationBinding.java
+ com.example.nolo.databinding.ItemDetailsCustomisationBinding
+com/example/nolo/interactors/user/GetWishlistItemsUseCase.java
+ com.example.nolo.interactors.user.GetWishlistItemsUseCase
+com/example/nolo/repositories/item/ItemsRepository.java
+ com.example.nolo.repositories.item.ItemsRepository
+ com.example.nolo.repositories.item.ItemsRepository$1
+ com.example.nolo.repositories.item.ItemsRepository$2
+com/example/nolo/entities/item/colour/Colour.java
+ com.example.nolo.entities.item.colour.Colour
+com/example/nolo/viewmodels/IWishlistViewModel.java
+ com.example.nolo.viewmodels.IWishlistViewModel
+com/example/nolo/databinding/ActivitySplashBinding.java
+ com.example.nolo.databinding.ActivitySplashBinding
+com/example/nolo/viewmodels/SplashViewModel.java
+ com.example.nolo.viewmodels.SplashViewModel
+com/example/nolo/activities/MainActivity.java
+ com.example.nolo.activities.MainActivity
+ com.example.nolo.activities.MainActivity$ViewHolder
+com/example/nolo/entities/item/variant/ItemVariant.java
+ com.example.nolo.entities.item.variant.ItemVariant
+ com.example.nolo.entities.item.variant.ItemVariant$1
+com/example/nolo/entities/user/User.java
+ com.example.nolo.entities.user.User
+com/example/nolo/interactors/user/UpdateCartItemsUseCase.java
+ com.example.nolo.interactors.user.UpdateCartItemsUseCase
+com/example/nolo/interactors/user/RemoveWishlistItemsUseCase.java
+ com.example.nolo.interactors.user.RemoveWishlistItemsUseCase
+com/example/nolo/viewmodels/ISplashViewModel.java
+ com.example.nolo.viewmodels.ISplashViewModel
+com/example/nolo/interactors/user/AddWishlistItemUseCase.java
+ com.example.nolo.interactors.user.AddWishlistItemUseCase
+com/example/nolo/adaptors/DetailsSpecsAdaptor.java
+ com.example.nolo.adaptors.DetailsSpecsAdaptor
+ com.example.nolo.adaptors.DetailsSpecsAdaptor$ViewHolder
+com/example/nolo/repositories/store/StoresRepository.java
+ com.example.nolo.repositories.store.StoresRepository
+ com.example.nolo.repositories.store.StoresRepository$1
+com/example/nolo/databinding/FragmentHomeBinding.java
+ com.example.nolo.databinding.FragmentHomeBinding
+com/example/nolo/adaptors/MapColourOverlayDecoration.java
+ com.example.nolo.adaptors.MapColourOverlayDecoration
+com/example/nolo/interactors/category/GetCategoriesUseCase.java
+ com.example.nolo.interactors.category.GetCategoriesUseCase
+com/example/nolo/util/LocationUtil.java
+ com.example.nolo.util.LocationUtil
+com/example/nolo/entities/item/specs/specsoption/SpecsOption.java
+ com.example.nolo.entities.item.specs.specsoption.SpecsOption
+com/example/nolo/enums/CategoryType.java
+ com.example.nolo.enums.CategoryType
+com/example/nolo/viewmodels/IAccountViewModel.java
+ com.example.nolo.viewmodels.IAccountViewModel
+com/example/nolo/viewmodels/IPurchasesViewModel.java
+ com.example.nolo.viewmodels.IPurchasesViewModel
+com/example/nolo/util/Display.java
+ com.example.nolo.util.Display
+com/example/nolo/viewmodels/IChangePasswordViewModel.java
+ com.example.nolo.viewmodels.IChangePasswordViewModel
+com/example/nolo/activities/ResultActivity.java
+ com.example.nolo.activities.ResultActivity
+ com.example.nolo.activities.ResultActivity$1
+ com.example.nolo.activities.ResultActivity$2
+ com.example.nolo.activities.ResultActivity$ViewHolder
+com/example/nolo/databinding/FragmentWishlistBinding.java
+ com.example.nolo.databinding.FragmentWishlistBinding
+com/example/nolo/interactors/user/SignUpUseCase.java
+ com.example.nolo.interactors.user.SignUpUseCase
+com/example/nolo/databinding/ItemSearchBarBinding.java
+ com.example.nolo.databinding.ItemSearchBarBinding
+com/example/nolo/interactors/category/GetCategoryByTypeUseCase.java
+ com.example.nolo.interactors.category.GetCategoryByTypeUseCase
+com/example/nolo/fragments/SearchFragment.java
+ com.example.nolo.fragments.SearchFragment
+ com.example.nolo.fragments.SearchFragment$1
+ com.example.nolo.fragments.SearchFragment$2
+ com.example.nolo.fragments.SearchFragment$ViewHolder
+com/example/nolo/interactors/user/GetCurrentUserUseCase.java
+ com.example.nolo.interactors.user.GetCurrentUserUseCase
+com/example/nolo/interactors/item/GetItemByIdUseCase.java
+ com.example.nolo.interactors.item.GetItemByIdUseCase
+com/example/nolo/interactors/user/GetRecentViewedItemsUseCase.java
+ com.example.nolo.interactors.user.GetRecentViewedItemsUseCase
+com/example/nolo/viewmodels/IResultViewModel.java
+ com.example.nolo.viewmodels.IResultViewModel
+com/example/nolo/adaptors/ItemsCompactAdaptor.java
+ com.example.nolo.adaptors.ItemsCompactAdaptor
+ com.example.nolo.adaptors.ItemsCompactAdaptor$ViewHolder
+com/example/nolo/entities/item/variant/IItemVariant.java
+ com.example.nolo.entities.item.variant.IItemVariant
+com/example/nolo/databinding/FragmentCartBinding.java
+ com.example.nolo.databinding.FragmentCartBinding
+com/example/nolo/databinding/FragmentSearchBinding.java
+ com.example.nolo.databinding.FragmentSearchBinding
+com/example/nolo/util/SearchUtil.java
+ com.example.nolo.util.SearchUtil
+com/example/nolo/entities/store/Store.java
+ com.example.nolo.entities.store.Store
+com/example/nolo/databinding/ItemListVerticalBinding.java
+ com.example.nolo.databinding.ItemListVerticalBinding
+com/example/nolo/interactors/item/GetAllItemsUseCase.java
+ com.example.nolo.interactors.item.GetAllItemsUseCase
+com/example/nolo/repositories/store/IStoresRepository.java
+ com.example.nolo.repositories.store.IStoresRepository
+com/example/nolo/util/TimeToLiveToken.java
+ com.example.nolo.util.TimeToLiveToken
+com/example/nolo/interactors/user/AddViewedItemUseCase.java
+ com.example.nolo.interactors.user.AddViewedItemUseCase

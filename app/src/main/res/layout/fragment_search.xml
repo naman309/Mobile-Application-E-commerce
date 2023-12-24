@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/navy"
+    tools:context=".fragments.SearchFragment">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingBottom="@dimen/padding_xlrg">
+        <ImageView
+            android:id="@+id/search_logo"
+            android:layout_width="@dimen/search_heading_width"
+            android:layout_height="@dimen/search_heading_height"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentBottom="true"
+            android:src="@drawable/search_logo"/>
+    </RelativeLayout>
+
+    <LinearLayout
+        android:id="@+id/outside_search_container"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/transparent"
+        android:orientation="vertical"/>
+    <include
+        android:id="@+id/search_view"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/search_bar_margin_top"
+        android:layout_gravity="center_horizontal"
+        android:background="@color/navy"
+        layout="@layout/item_search_bar"/>
+</FrameLayout>

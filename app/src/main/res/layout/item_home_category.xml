@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:background="@color/navy"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:id="@+id/category_img"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/category_accessory"
+        android:scaleType="centerCrop"/>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@color/transparent"
+        android:layout_gravity="center"
+        android:orientation="vertical">
+        <TextView
+            android:id="@+id/category_label"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:letterSpacing="-0.1"
+            android:background="@color/transparent"
+            android:textSize="@dimen/category_heading_font"
+            />
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="@dimen/touch_target_min"
+            android:layout_gravity="center">
+
+            <ImageButton
+                android:id="@+id/category_btn"
+                android:layout_width="@dimen/category_btn_width"
+                android:layout_height="@dimen/category_btn_height"
+                android:layout_centerInParent="true"
+                android:layout_gravity="center"
+                android:background="@color/transparent"
+                android:scaleType="fitXY"
+                android:src="@drawable/home_categories_btn" />
+        </RelativeLayout>
+    </LinearLayout>
+
+</FrameLayout>

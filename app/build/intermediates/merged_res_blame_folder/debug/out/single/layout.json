@@ -1,0 +1,126 @@
+[
+    {
+        "merged": "D:\\Assignments\\2nd Sem\\Mobile Application\\nolo-main\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_login.xml",
+        "source": "D:\\Assignments\\2nd Sem\\Mobile Application\\nolo-main\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "D:\\Assignments\\2nd Sem\\Mobile Application\\nolo-main\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_account.xml",
+        "source": "D:\\Assignments\\2nd Sem\\Mobile Application\\nolo-main\\app\\src\\main\\res\\layout\\fragment_account.xml"
+    },
+    {
+        "merged": "D:\\Assignments\\2nd Sem\\Mobile Application\\nolo-main\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_details_colour.xml",
+        "source": "D:\\Assignments\\2nd Sem\\Mobile Application\\nolo-main\\app\\src\\main\\res\\layout\\item_details_colour.xml"
+    },
+    {
+        "merged": "D:\\Assignments\\2nd Sem\\Mobile Application\\nolo-main\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\popup_connectivity.xml",
+        "source": "D:\\Assignments\\2nd Sem\\Mobile Application\\nolo-main\\app\\src\\main\\res\\layout\\popup_connectivity.xml"
+    },
+    {
+        "merged": "D:\\Assignments\\2nd Sem\\Mobile Application\\nolo-main\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_list_variant.xml",
+        "source": "D:\\Assignments\\2nd Sem\\Mobile Application\\nolo-main\\app\\src\\main\\res\\layout\\item_list_variant.xml"
+    },
+    {
+        "merged": "D:\\Assignments\\2nd Sem\\Mobile Application\\nolo-main\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_purchases.xml",
+        "source": "D:\\Assignments\\2nd Sem\\Mobile Application\\nolo-main\\app\\src\\main\\res\\layout\\fragment_purchases.xml"
+    },
+    {
+        "merged": "D:\\Assignments\\2nd Sem\\Mobile Application\\nolo-main\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\carousel_img.xml",
+        "source": "D:\\Assignments\\2nd Sem\\Mobile Application\\nolo-main\\app\\src\\main\\res\\layout\\carousel_img.xml"
+    },
+    {
+        "merged": "D:\\Assignments\\2nd Sem\\Mobile Application\\nolo-main\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_cart.xml",
+        "source": "D:\\Assignments\\2nd Sem\\Mobile Application\\nolo-main\\app\\src\\main\\res\\layout\\fragment_cart.xml"
+    },
+    {
+        "merged": "D:\\Assignments\\2nd Sem\\Mobile Application\\nolo-main\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_details_description.xml",
+        "source": "D:\\Assignments\\2nd Sem\\Mobile Application\\nolo-main\\app\\src\\main\\res\\layout\\item_details_description.xml"
+    },
+    {
+        "merged": "D:\\Assignments\\2nd Sem\\Mobile Application\\nolo-main\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "D:\\Assignments\\2nd Sem\\Mobile Application\\nolo-main\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\Assignments\\2nd Sem\\Mobile Application\\nolo-main\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_home_category.xml",
+        "source": "D:\\Assignments\\2nd Sem\\Mobile Application\\nolo-main\\app\\src\\main\\res\\layout\\item_home_category.xml"
+    },
+    {
+        "merged": "D:\\Assignments\\2nd Sem\\Mobile Application\\nolo-main\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_wishlist.xml",
+        "source": "D:\\Assignments\\2nd Sem\\Mobile Application\\nolo-main\\app\\src\\main\\res\\layout\\fragment_wishlist.xml"
+    },
+    {
+        "merged": "D:\\Assignments\\2nd Sem\\Mobile Application\\nolo-main\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_list.xml",
+        "source": "D:\\Assignments\\2nd Sem\\Mobile Application\\nolo-main\\app\\src\\main\\res\\layout\\activity_list.xml"
+    },
+    {
+        "merged": "D:\\Assignments\\2nd Sem\\Mobile Application\\nolo-main\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_home_indicator.xml",
+        "source": "D:\\Assignments\\2nd Sem\\Mobile Application\\nolo-main\\app\\src\\main\\res\\layout\\item_home_indicator.xml"
+    },
+    {
+        "merged": "D:\\Assignments\\2nd Sem\\Mobile Application\\nolo-main\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_forgot_password.xml",
+        "source": "D:\\Assignments\\2nd Sem\\Mobile Application\\nolo-main\\app\\src\\main\\res\\layout\\activity_forgot_password.xml"
+    },
+    {
+        "merged": "D:\\Assignments\\2nd Sem\\Mobile Application\\nolo-main\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_search_bar.xml",
+        "source": "D:\\Assignments\\2nd Sem\\Mobile Application\\nolo-main\\app\\src\\main\\res\\layout\\item_search_bar.xml"
+    },
+    {
+        "merged": "D:\\Assignments\\2nd Sem\\Mobile Application\\nolo-main\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_compact.xml",
+        "source": "D:\\Assignments\\2nd Sem\\Mobile Application\\nolo-main\\app\\src\\main\\res\\layout\\item_compact.xml"
+    },
+    {
+        "merged": "D:\\Assignments\\2nd Sem\\Mobile Application\\nolo-main\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_change_password.xml",
+        "source": "D:\\Assignments\\2nd Sem\\Mobile Application\\nolo-main\\app\\src\\main\\res\\layout\\fragment_change_password.xml"
+    },
+    {
+        "merged": "D:\\Assignments\\2nd Sem\\Mobile Application\\nolo-main\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_details_customisation.xml",
+        "source": "D:\\Assignments\\2nd Sem\\Mobile Application\\nolo-main\\app\\src\\main\\res\\layout\\item_details_customisation.xml"
+    },
+    {
+        "merged": "D:\\Assignments\\2nd Sem\\Mobile Application\\nolo-main\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_result.xml",
+        "source": "D:\\Assignments\\2nd Sem\\Mobile Application\\nolo-main\\app\\src\\main\\res\\layout\\activity_result.xml"
+    },
+    {
+        "merged": "D:\\Assignments\\2nd Sem\\Mobile Application\\nolo-main\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_profile.xml",
+        "source": "D:\\Assignments\\2nd Sem\\Mobile Application\\nolo-main\\app\\src\\main\\res\\layout\\fragment_profile.xml"
+    },
+    {
+        "merged": "D:\\Assignments\\2nd Sem\\Mobile Application\\nolo-main\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_list_phone.xml",
+        "source": "D:\\Assignments\\2nd Sem\\Mobile Application\\nolo-main\\app\\src\\main\\res\\layout\\item_list_phone.xml"
+    },
+    {
+        "merged": "D:\\Assignments\\2nd Sem\\Mobile Application\\nolo-main\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_details.xml",
+        "source": "D:\\Assignments\\2nd Sem\\Mobile Application\\nolo-main\\app\\src\\main\\res\\layout\\activity_details.xml"
+    },
+    {
+        "merged": "D:\\Assignments\\2nd Sem\\Mobile Application\\nolo-main\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_list_laptop.xml",
+        "source": "D:\\Assignments\\2nd Sem\\Mobile Application\\nolo-main\\app\\src\\main\\res\\layout\\item_list_laptop.xml"
+    },
+    {
+        "merged": "D:\\Assignments\\2nd Sem\\Mobile Application\\nolo-main\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_splash.xml",
+        "source": "D:\\Assignments\\2nd Sem\\Mobile Application\\nolo-main\\app\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "D:\\Assignments\\2nd Sem\\Mobile Application\\nolo-main\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_search.xml",
+        "source": "D:\\Assignments\\2nd Sem\\Mobile Application\\nolo-main\\app\\src\\main\\res\\layout\\fragment_search.xml"
+    },
+    {
+        "merged": "D:\\Assignments\\2nd Sem\\Mobile Application\\nolo-main\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_search_suggestion.xml",
+        "source": "D:\\Assignments\\2nd Sem\\Mobile Application\\nolo-main\\app\\src\\main\\res\\layout\\item_search_suggestion.xml"
+    },
+    {
+        "merged": "D:\\Assignments\\2nd Sem\\Mobile Application\\nolo-main\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_map.xml",
+        "source": "D:\\Assignments\\2nd Sem\\Mobile Application\\nolo-main\\app\\src\\main\\res\\layout\\activity_map.xml"
+    },
+    {
+        "merged": "D:\\Assignments\\2nd Sem\\Mobile Application\\nolo-main\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_home.xml",
+        "source": "D:\\Assignments\\2nd Sem\\Mobile Application\\nolo-main\\app\\src\\main\\res\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "D:\\Assignments\\2nd Sem\\Mobile Application\\nolo-main\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_list_vertical.xml",
+        "source": "D:\\Assignments\\2nd Sem\\Mobile Application\\nolo-main\\app\\src\\main\\res\\layout\\item_list_vertical.xml"
+    },
+    {
+        "merged": "D:\\Assignments\\2nd Sem\\Mobile Application\\nolo-main\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_signup.xml",
+        "source": "D:\\Assignments\\2nd Sem\\Mobile Application\\nolo-main\\app\\src\\main\\res\\layout\\activity_signup.xml"
+    }
+]
